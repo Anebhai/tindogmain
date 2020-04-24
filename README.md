@@ -1,2 +1,1 @@
-# tindogmain
-Cheap imitatiion of tinder
+TinDog Starting Files
